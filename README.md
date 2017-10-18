@@ -1,4 +1,4 @@
-<h3>This sample app can fetch json from url and show them in list view using Build in Java & Android Methods .</h3>
+<h3>This sample app can fetch json from url and show them in list view using built-in Java & Android Methods .</h3>
 
 <p>In this app , I have used Java's <a href="https://docs.oracle.com/javase/8/docs/api/java/net/URL.html">URL</a> and 
 <a href="https://docs.oracle.com/javase/8/docs/api/java/net/HttpURLConnection.html">HttpURLConnection</a>
